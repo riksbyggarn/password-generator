@@ -1,10 +1,8 @@
-npm install
-
 # Password Generator 🔑
 
 ## Demo
 
-_Add a link here if you publish the project online!_
+[View live!](https://passwordgeneratorswe.netlify.app/)
 
 ## Features
 
@@ -23,7 +21,7 @@ _Add a link here if you publish the project online!_
 ## Installation
 
 1. Clone the repo:
-   `git clone <your-repo-url>`
+   `git clone https://github.com/riksbyggarn/password-generator`
 2. Open `index.html` in your web browser.
 
 ## Usage
